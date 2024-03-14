@@ -23,6 +23,7 @@ namespace Exercise10
             choice = int.Parse(Console.ReadLine());
             Console.WriteLine("");
 
+            
             while (choice < 4)
             {
                 if (choice == 1);
